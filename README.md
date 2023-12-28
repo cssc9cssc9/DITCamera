@@ -1,4 +1,4 @@
-# DITCamera project
+# Camera defect project
 
 ## Introduction
 To detect a lens external condition, like dust, stain, illumination, ... ,etc, we build three algorithm to detect specific problem.
